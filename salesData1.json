@@ -1,0 +1,53 @@
+[
+    {
+        "month": "JAN",
+        "sales": 43
+    },
+    {
+        "month": "FEB",
+        "sales": 87
+    },
+    {
+        "month": "MAR",
+        "sales": 55
+    },
+    {
+        "month": "APR",
+        "sales": 76
+    },
+    {
+        "month": "MEI",
+        "sales": 68
+    },
+
+    {
+        "month": "JUN",
+        "sales": 118
+    },
+
+    {
+        "month": "JUL",
+        "sales": 33
+    },
+    {
+        "month": "AUG",
+        "sales": 54
+    },
+    {
+        "month": "SEP",
+        "sales": 43
+    },
+    {
+        "month": "OCT",
+        "sales": 64
+    },
+    {
+        "month": "NOP",
+        "sales": 50
+    },
+    {
+        "month": "DEC",
+        "sales": 25
+    }    
+
+]
